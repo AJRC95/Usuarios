@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Anggie JRC
+Build-Jdk: 11.0.11
+Implementation-Title: usuarioES
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pruebaUsuario
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/usuarioES/
+Created-By: Maven Integration for Eclipse
+
